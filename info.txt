@@ -2,6 +2,7 @@ Avneet is modified
 
 Avneet is modified
 
+<<<<<<< HEAD
 Avneet1 is modified
 
 Avneet1 is modified
@@ -10,3 +11,9 @@ Avneet1 is modified
 Avneet1 is modified
 
 
+=======
+
+Chandan is modified
+
+Chandan is modified
+>>>>>>> 01d2066b5c2bbc998ff871f7d336091df8524d41
